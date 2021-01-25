@@ -1,6 +1,6 @@
 # Regex
 
-## Gist Link: https://gist.github.com/koneruteja/bcac47862e57f4f98606900dd5c90d85.js
+## Gist Link: https://gist.github.com/koneruteja/bcac47862e57f4f98606900dd5c90d85
 
 # Validate Email Input (Regex)
  
