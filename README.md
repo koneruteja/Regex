@@ -19,7 +19,7 @@ Regex are characters that are used to form a pattern of words or characters to b
 
 # Summary 
 
-Regular expressions are really uceful in searching for any pattern of characters, the use of Regex is not limited to jus searches but to other replacing the matched characters to desired ones. In an example we can use my email pattern as srikar.kudumula@gmail.com  and is transformed into : 
+Regular expressions are really uceful in searching for any pattern of characters, the use of Regex is not limited to jus searches but to other replacing the matched characters to desired ones. In an example we can use my email pattern as koneru.dharmateja1@gmail.com  and is transformed into : 
 /^([b-s0-10_/.-]+)@([\ba-z\.-]+)$/
 
 # Regex Components 
